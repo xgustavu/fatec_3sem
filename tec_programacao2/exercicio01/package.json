@@ -1,0 +1,26 @@
+{
+  "name": "exercicio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "ts-node ./src/index.ts",
+    "ex1": "ts-node ./src/exercicio01.ts",
+    "ex2": "ts-node ./src/exercicio02.ts",
+    "ex3": "ts-node ./src/exercicio03.ts",
+    "ex4": "ts-node ./src/exercicio04.ts",
+    "ex5": "ts-node ./src/exercicio05.ts",
+    "ex6": "ts-node ./src/exercicio06.ts",
+    "ex7": "ts-node ./src/exercicio07.ts",
+    "ex8": "ts-node ./src/exercicio08.ts",
+    "ex9": "ts-node ./src/exercicio09.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
