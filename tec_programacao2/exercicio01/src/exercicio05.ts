@@ -5,3 +5,4 @@ const area:number =  (base * altura) / 2;
 
 console.log("Area:", area);
 
+export{};
